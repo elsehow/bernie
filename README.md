@@ -15,6 +15,7 @@ let unequal = {
   two: 0.3,
   three: 0.7,
 }
+
 // produce steps that would 
 // redistribute those values 
 // equally among entities
@@ -32,6 +33,7 @@ var unequal = {
   two: 0.3,
   three: 0.7,
 }
+
 // some optimal distribution 
 // of those values
 var dist = {
